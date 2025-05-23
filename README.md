@@ -1,1 +1,2 @@
 # List-Project
+This is a simple C# console application that collects and stores any type of user input—such as integers, strings, characters, etc.—into a single list using List<object>. The program continues to prompt the user until a specific exit keyword (e.g., exit) is entered.It Accepts input of multiple data types: int, string, char, float,  Stores all entries in a List<object>.Displays all user inputs at the end.Simple and easy-to-understand logic for beginners.
